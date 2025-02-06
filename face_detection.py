@@ -14,9 +14,3 @@ def detect_faces(image_path):
 if __name__ == "__main__":
     image_path = '/content/ak.jpg' 
     detect_faces('/content/ak.jpg')
-    if __name__ == "__main__":
-      image_path = '/content/a.jpg'
-      detect_faces('/content/a.jpg')
-      if __name__ == "__main__":
-        image_path = '/content/WhatsApp Image 2025-02-06 at 6.51.10 PM.jpeg' 
-        detect_faces('/content/WhatsApp Image 2025-02-06 at 6.51.10 PM.jpeg')
